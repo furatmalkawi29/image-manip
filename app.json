@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Image Manipulator",
+    "slug": "image-manipulator",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "description": ""
+  },
+  "name": "WhereAmIApp"
+}
